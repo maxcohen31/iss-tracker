@@ -1,4 +1,4 @@
-# iss-tracker - Get info about the ISS
+# ISS-tracker - Get info about the ISS
 ## Where is the International Space Station?
 A simple script to track down the Internation Space Station.
 ## API
